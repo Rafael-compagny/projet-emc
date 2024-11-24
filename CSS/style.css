@@ -90,6 +90,11 @@ header p.logo{
 		font-weight: bold;
 		background-color: Black;
 		display: inline-flex;
+		padding: 20px 0;
+		
+		position: relative;
+		bottom: 0;
+		width: 100%;
 	}
 	footer p.h10{
 		font-size: 40px;
