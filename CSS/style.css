@@ -85,16 +85,13 @@ header p.logo{
 
 /*pieds de page*/
 	footer{
-		color: #fff;
-		font-size: 35px;
-		font-weight: bold;
-		background-color: Black;
-		display: inline-flex;
+		background-color: #222; /* Couleur de fond sombre */
+		color: #fff;           /* Texte en blanc */
 		padding: 20px 0;
-		
 		position: relative;
 		bottom: 0;
 		width: 100%;
+		font-size: 14px;
 	}
 	footer p.h10{
 		font-size: 40px;
